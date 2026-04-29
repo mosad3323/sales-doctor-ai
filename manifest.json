@@ -1,0 +1,16 @@
+{
+  "name": "Mohamed Sales Doctor AI",
+  "short_name": "Sales Doctor AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "Lead analyzer and WhatsApp reply generator based on Mohamed's sales doctrine.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
